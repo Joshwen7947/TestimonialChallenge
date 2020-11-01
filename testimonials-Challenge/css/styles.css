@@ -1,0 +1,265 @@
+body {
+  background-color: hsl(210, 46%, 95%);
+  z-index: 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+#verify {
+  color: hsl(0, 0%, 81%);
+  font-size: 13px;
+  opacity: 50%;
+  text-align: left;
+  margin-left: 85px;
+  margin-top: -15px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+/*DANIEL ONLY*/
+.daniel-class {
+  background-color: hsl(263, 55%, 52%);
+  height: 275px;
+  width: 600px;
+  border-radius: 10px;
+  margin-top: 200px;
+  margin-left: 115px;
+}
+
+.quote-pic {
+  color: white;
+  opacity: 50%;
+  margin-left: 350px;
+  margin-bottom: -40px;
+  z-index: -1;
+}
+
+.daniel-pic {
+  border-radius: 100px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#daniel {
+  color: white;
+  font-size: 13px;
+  margin-top: -50px;
+  margin-left: 85px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#daniel-h3 {
+  color: white;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 30px;
+  font-size: 1.25rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#daniel-p {
+  color: hsl(0, 0%, 81%);
+  font-size: 13px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  opacity: 70%;
+  line-height: 1.5;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+/*JONATHAN ONLY*/
+.jonathan-class{
+  background-color: hsl(217, 19%, 35%);
+  height: 275px;
+  width: 275px;
+  border-radius: 10px;
+  margin-left: 740px;
+  margin-top: -275px;
+  position:relative;
+}
+
+.jonathan-pic{
+  border-radius: 100px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#jonathan{
+  color: white;
+  font-size: 13px;
+  margin-top: -50px;
+  margin-left: 85px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#jonathan-h3{
+  color: white;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 30px;
+  font-size: 1.25rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#jonathan-p{
+  color: hsl(0, 0%, 81%);
+  font-size: 13px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  opacity: 70%;
+  line-height: 1.5;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+/*KIRA ONLY*/
+
+.kira-class{
+  background-color: white;
+  height: 575px;
+  width: 275px;
+  border-radius: 10px;
+  margin-left: 1040px;
+  margin-top: -675px;
+
+}
+
+.kira-pic{
+  border-radius: 100px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#kira{
+  color: hsl(217, 19%, 35%);
+  font-size: 13px;
+  margin-top: -50px;
+  margin-left: 85px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#kira-h3{
+  color: hsl(217, 19%, 35%);
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 30px;
+  font-size: 1.25rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#kira-p{
+  color: hsl(217, 19%, 35%);
+  font-size: 13px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  opacity: 70%;
+  line-height: 1.5;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+/*Jeanette ONLY*/
+.jeanette-class{
+    background-color: white;
+    height: 275px;
+    width: 275px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 115px;
+    position:relative;
+}
+
+.jeanette-pic{
+  border-radius: 100px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#jeanette{
+  color: hsl(217, 19%, 35%);
+  font-size: 13px;
+  margin-top: -50px;
+  margin-left: 85px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#jeanette-h3{
+  color: hsl(217, 19%, 35%);
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 30px;
+  font-size: 1.25rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#jeanette-p{
+  color: hsl(217, 19%, 35%);
+  font-size: 13px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  opacity: 70%;
+  line-height: 1.5;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+/*PATRICK ONLY*/
+.patrick-class{
+  background-color: hsl(219, 29%, 14%);
+  height: 275px;
+  width: 600px;
+  border-radius: 10px;
+  margin-top: -275px;
+  margin-left: 415px;
+  margin-bottom: 100px;
+}
+
+.patrick-pic{
+  border-radius: 100px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#patrick{
+  color: white;
+  font-size: 13px;
+  margin-top: -50px;
+  margin-left: 85px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#patrick-h3{
+  color: white;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 30px;
+  font-size: 1.25rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#patrick-p{
+  color: hsl(0, 0%, 81%);
+  font-size: 13px;
+  text-align: left;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+  opacity: 70%;
+  line-height: 1.5;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
